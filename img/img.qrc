@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>alarm.png</file>
+        <file>browse.png</file>
+        <file>burn.png</file>
+        <file>contact.png</file>
+        <file>cooler.png</file>
+        <file>eraser.png</file>
+        <file>img.qrc</file>
+        <file>led.png</file>
+        <file>processor.png</file>
+        <file>read.png</file>
+        <file>refresh.png</file>
+        <file>settings.png</file>
+        <file>verify.png</file>
+        <file>information.png</file>
+        <file>configuration.png</file>
+        <file>log.png</file>
+        <file>icon.png</file>
+        <file>port.png</file>
+    </qresource>
+</RCC>
