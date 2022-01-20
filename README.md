@@ -15,10 +15,10 @@ using the Pickit2 programmer and debugger Hardware
 **How to build**
 
 You must have qt, qmake and make installed in your system.
-run:
-`qmake QPickit.pro`
-`make all -j4`
-`make clean`
+run:  
+`qmake QPickit.pro`  
+`make all -j4`  
+`make clean`  
 
 
 
